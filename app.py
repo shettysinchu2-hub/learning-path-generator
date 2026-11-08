@@ -19,7 +19,7 @@ if st.button("Generate Learning Path"):
         steps = [
             f"Understand the basics of {topic}",
             f"Learn important concepts of {topic}",
-            f"Practice {topic} with exercises",
+            f"Practice {topic} with simple exercises",
             f"Build a small project using {topic}",
             f"Review and improve your {topic} skills"
         ]
